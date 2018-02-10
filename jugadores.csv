@@ -1,0 +1,51 @@
+Jugador;Pie_preferido;Trabajo_en_ataque;Trabajo_defensivo;potential;Pases;Finalizacion;exactitud_direccion;Pase_corto;regate;curva;Precision_tiro_libre;Pase_largo;Control_de_balon;Aceleracion;Agilidad;Reaccion;Potencia_de_disparo;Salto;Interceptacion;Posicionamiento;penalties;Marcacion;Estatura;Peso
+Lionel Messi;Izquierdo;Medio;Bajo;94;80;93;71;88;96;89;90;79;96;95;92;92;80;68;22;90;74;13;170.18;159
+Cristiano Ronaldo;Derecho;Fuerte;Bajo;93;82;95;86;81;93;88;77;72;91;91;90;92;94;94;29;93;85;22;185.42;176
+Luis Suarez;Derecho;Fuerte;Medio;90;77;90;77;82;88;86;84;64;91;88;86;91;88;69;41;91;85;30;182.88;187
+Neymar;Derecho;Fuerte;Medio;94;72;88;62;78;94;78;79;74;93;91;92;86;78;61;36;89;81;21;175.26;150
+Arjen Robben;Izquierdo;Fuerte;Bajo;89;80;85;51;85;93;86;83;73;90;90;91;91;86;61;39;88;80;29;180.34;176
+Zlatan Ibrahimovic;Derecho;Medio;Bajo;89;76;90;76;84;87;80;80;76;90;72;86;85;93;72;20;86;91;15;195.58;209
+Andres Iniesta;Derecho;Fuerte;Medio;88;79;73;54;92;90;80;70;86;92;76;83;88;65;54;68;85;71;57;170.18;150
+Eden Hazard;Derecho;Fuerte;Medio;90;80;81;57;85;94;82;79;82;90;93;92;86;79;59;41;84;86;25;172.72;163
+Mesut Oezil;Izquierdo;Medio;Bajo;89;80;75;54;89;86;84;79;84;90;77;84;87;70;52;24;84;76;22;182.88;168
+Robert Lewandowski;Derecho;Medio;Medio;89;62;89;83;82;85;77;68;65;87;79;78;88;85;83;39;88;77;25;185.42;174
+Sergio Aguero;Derecho;Fuerte;Medio;88;70;90;68;79;89;82;72;63;89;92;86;88;87;80;24;91;83;13;172.72;163
+Thiago Silva;Derecho;Fuerte;Fuerte;88;60;38;82;79;68;61;73;81;80;72;75;84;78;93;91;59;71;90;182.88;174
+Gareth Bale;Izquierdo;Fuerte;Medio;89;84;81;76;84;87;87;85;80;85;93;75;84;87;67;59;83;76;60;182.88;163
+James Rodriguez;Izquierdo;Medio;Medio;93;88;85;68;84;87;82;86;80;85;78;83;85;86;55;58;83;81;25;180.34;165
+Luka Modric;Derecho;Fuerte;Medio;87;78;71;55;86;86;79;77;83;92;78;93;88;73;67;73;79;80;69;175.26;143
+Philipp Lahm;Derecho;Medio;Fuerte;87;84;47;63;86;82;77;59;79;86;73;83;91;57;72;93;69;71;86;170.18;146
+Sergio Ramos;Derecho;Fuerte;Medio;87;74;60;86;76;57;73;68;70;83;78;82;82;77;91;88;52;68;85;182.88;165
+Toni Kroos;Derecho;Medio;Medio;89;85;76;54;89;83;84;83;90;86;59;71;85;87;54;76;76;73;60;182.88;172
+Alexis Sanchez;Derecho;Fuerte;Fuerte;87;77;83;65;79;88;78;78;73;85;88;90;84;82;85;42;85;77;30;170.18;137
+Angel Di Maria;Izquierdo;Fuerte;Medio;86;90;75;53;81;87;83;72;81;86;88;90;79;87;72;38;83;73;37;180.34;165
+Cesc Fabregas;Derecho;Fuerte;Medio;86;86;76;74;92;81;77;81;91;87;65;65;83;77;68;54;80;80;62;175.26;163
+David Silva;Izquierdo;Fuerte;Bajo;86;85;72;54;92;87;83;77;85;91;79;93;84;71;66;41;83;77;23;170.18;148
+Franck Ribery;Derecho;Fuerte;Medio;86;82;77;41;87;90;83;81;73;90;86;90;87;76;50;36;82;80;13;170.18;159
+Gonzalo Higuain;Derecho;Fuerte;Medio;86;68;90;78;72;83;69;62;58;86;79;74;86;85;73;20;90;70;12;182.88;181
+Karim Benzema;Derecho;Medio;Bajo;86;75;88;78;86;82;79;73;47;86;82;75;83;83;70;22;87;82;13;187.96;174
+Kevin de Bruyne;Derecho;Fuerte;Medio;89;90;82;53;88;85;78;77;82;86;76;78;87;84;65;52;83;77;30;180.34;168
+Marco Reus;Derecho;Medio;Medio;87;85;83;51;86;86;90;84;79;85;89;89;87;84;70;50;87;84;30;180.34;165
+Mats Hummels;Derecho;Fuerte;Medio;87;64;55;90;78;68;65;53;82;77;62;64;85;71;70;91;56;68;86;190.5;203
+Paul Pogba;Derecho;Fuerte;Medio;91;76;71;72;85;88;81;80;81;89;75;75;86;91;85;71;83;76;68;190.5;185
+Sergio Busquets;Derecho;Medio;Medio;87;62;60;70;89;74;66;68;79;82;54;58;83;61;66;87;77;60;83;187.96;168
+Thomas Mueller;Derecho;Fuerte;Fuerte;88;79;89;82;83;78;81;59;77;81;76;77;91;74;81;58;94;82;32;185.42;165
+Xavi Hernandez;Derecho;Medio;Medio;86;85;74;51;93;80;85;87;90;93;67;79;90;67;53;71;83;75;55;170.18;148
+Arturo Vidal;Derecho;Fuerte;Fuerte;85;76;75;76;83;81;76;68;79;83;79;75;87;83;82;88;78;86;76;180.34;165
+Bastian Schweinsteiger;Derecho;Fuerte;Fuerte;85;79;73;79;87;77;82;78;87;82;51;73;89;84;83;86;80;83;68;182.88;174
+Carlos Tevez;Derecho;Fuerte;Fuerte;85;73;88;58;80;86;84;82;61;88;90;83;91;88;77;34;90;82;39;172.72;157
+Diego Costa;Derecho;Fuerte;Medio;86;63;88;82;65;82;58;59;48;82;75;63;85;83;60;40;88;76;28;187.96;187
+Edinson Cavani;Derecho;Fuerte;Medio;85;70;85;89;77;81;75;77;50;83;74;82;85;85;88;48;87;82;24;182.88;157
+Gerard Pique;Derecho;Fuerte;Medio;85;57;64;82;83;59;58;43;80;76;56;58;81;62;74;88;58;69;86;193.04;187
+Ivan Rakitic;Derecho;Medio;Medio;85;81;82;49;86;83;87;84;92;87;69;72;79;84;52;69;80;78;52;182.88;172
+Wayne Rooney;Derecho;Medio;Fuerte;85;78;85;80;80;79;84;84;85;83;72;77;87;87;81;54;87;81;29;175.26;183
+Yaya Toure;Derecho;Medio;Bajo;85;67;82;74;86;81;80;85;83;83;69;64;85;86;65;66;81;85;63;187.96;198
+Daniel Alves;Derecho;Fuerte;Bajo;84;80;60;71;80;81;77;74;76;85;84;85;82;87;78;83;63;70;70;172.72;154
+Hulk;Izquierdo;Fuerte;Medio;84;80;85;68;83;84;80;84;78;84;84;72;83;94;72;55;83;78;33;180.34;187
+Isco;Derecho;Fuerte;Medio;88;72;76;59;85;87;86;74;78;89;77;84;79;72;64;48;77;76;25;175.26;163
+Jordi Alba;Izquierdo;Fuerte;Medio;85;82;73;60;77;80;77;64;70;82;93;89;81;64;81;82;77;59;79;170.18;150
+Mario Goetze;Derecho;Medio;Medio;88;76;78;54;85;90;80;74;75;90;76;87;85;68;70;53;84;65;16;175.26;159
+Xabi Alonso;Derecho;Bajo;Medio;84;79;56;72;92;77;82;84;93;84;32;58;83;83;46;86;77;80;70;182.88;176
+David Luiz;Derecho;Fuerte;Medio;83;68;56;83;78;70;70;76;76;79;72;74;79;74;82;80;54;75;81;187.96;185
+Jackson Martinez;Derecho;Fuerte;Medio;83;61;86;85;72;79;73;46;63;81;77;81;83;82;88;47;84;70;27;185.42;187
+Javier Mascherano;Derecho;Medio;Fuerte;83;63;42;68;79;58;63;50;75;82;69;72;83;76;75;92;51;64;84;175.26;161
